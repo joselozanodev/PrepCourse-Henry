@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo 2 del prp-course
+Jose Lozano
+
+este proyecto es una prueba de como crear un repositorio en github y como clonarlo en mi computadora 
